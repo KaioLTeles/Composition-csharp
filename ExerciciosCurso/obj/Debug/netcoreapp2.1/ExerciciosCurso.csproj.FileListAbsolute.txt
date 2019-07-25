@@ -1,0 +1,11 @@
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\bin\Debug\netcoreapp2.1\ExerciciosCurso.deps.json
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\bin\Debug\netcoreapp2.1\ExerciciosCurso.runtimeconfig.json
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\bin\Debug\netcoreapp2.1\ExerciciosCurso.runtimeconfig.dev.json
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\bin\Debug\netcoreapp2.1\ExerciciosCurso.dll
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\bin\Debug\netcoreapp2.1\ExerciciosCurso.pdb
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\obj\Debug\netcoreapp2.1\ExerciciosCurso.csprojAssemblyReference.cache
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\obj\Debug\netcoreapp2.1\ExerciciosCurso.csproj.CoreCompileInputs.cache
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\obj\Debug\netcoreapp2.1\ExerciciosCurso.AssemblyInfoInputs.cache
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\obj\Debug\netcoreapp2.1\ExerciciosCurso.AssemblyInfo.cs
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\obj\Debug\netcoreapp2.1\ExerciciosCurso.dll
+C:\Users\kaioteles\source\repos\ExerciciosCurso\ExerciciosCurso\obj\Debug\netcoreapp2.1\ExerciciosCurso.pdb
